@@ -1,6 +1,8 @@
 # BetterNotes
 
 A minimalist note-taking app built with Tauri and React.
+![Alt Text](screenshot1.png)
+
 
 ## Features
 
